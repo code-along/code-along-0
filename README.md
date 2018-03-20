@@ -1,4 +1,4 @@
-# Hello, World! in Python3
+# Hello, World! in python3
 
 In this example we will explore "Hello, World!" in C++ and Python3
 
