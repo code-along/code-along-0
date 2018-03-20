@@ -7,7 +7,7 @@ C++ programs need to be compiled.
 To compile the example hello_world.c program, make sure you have the g++
 compiler installed, which should be pre-installed on most operating systems.
 
-Run the compiler on hello_world.c file as follows:
+Run the compiler on hello_world.c file:
 
 > g++ -Wall hello_world.c -o hello_world
 
