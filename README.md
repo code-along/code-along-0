@@ -1,6 +1,6 @@
 # Hello, World! in python3
 
-In this example we will explore "Hello, World!" in C++ and Python3
+In this example we will explore "Hello, World!" in C++ and python3
 
 C++ programs need to be compiled.
 
